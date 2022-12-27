@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ambrosius Calvin
 - 👀 I’m interested in Backend programming
 - 🌱 I’m currently learning Node.js and Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me calvambro@gmail.com
